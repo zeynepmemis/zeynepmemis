@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Zeynep and I'm studying at Bilkent University  
 
 <!--
 **zeynepmemis/zeynepmemis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
